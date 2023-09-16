@@ -6,10 +6,10 @@
   "scripts": {
     "help": "cowsay -h",
     "cows": "cowsay -l",
-    "cowsay": "cowsay"
+    "cowsay": "cowsay",
 
     "test": "echo \"Error: no test specified\" && exit 1"
-    
+
   },
   "keywords": [],
   "author": "Sikholiwe Sibisi <genesissibisi@gmail.com> (https://github.com/Sikholiwe132)",
