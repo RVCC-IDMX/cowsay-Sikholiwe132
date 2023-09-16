@@ -4,9 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "help": "cowsay -h",
+    "cows": "cowsay -l",
+    "cowsay": "cowsay"
+
     "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "keywords": [],
   "author": "Sikholiwe Sibisi <genesissibisi@gmail.com> (https://github.com/Sikholiwe132)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
 }
